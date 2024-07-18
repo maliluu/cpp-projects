@@ -70,7 +70,7 @@ int main() {
             if (userinput==0) {
                 cout<< "***Thank You For Playing <3***\n";
                 cout << "Computer:\t\t\tPlayer:\n";
-                cout << computerpoints << "\t\t\t\t" << userpoints << endl;
+                cout << computerpoints << "\t\t\t\t\t" << userpoints << endl;
                 if (computerpoints > userpoints)
                     cout << "You lost!\n";
                 if (computerpoints < userpoints)
