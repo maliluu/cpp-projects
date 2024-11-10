@@ -1,6 +1,3 @@
-// Maria Reaidy 20223019
-// Mari Lynn Yammine 20231510
-
 #ifndef Hangman_h
 #define Hangman_h
 #include <string>
