@@ -1,5 +1,5 @@
 // Maria Reaidy 20223019
-// Marilynn Yammine 20231510
+// Mari Lynn Yammine 20231510
 
 #include "Hangman.h"
 #include <string>
