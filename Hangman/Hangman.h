@@ -1,6 +1,5 @@
-
 // Maria Reaidy 20223019
-// Marilynn Yammine 20231510
+// Mari Lynn Yammine 20231510
 
 #ifndef Hangman_h
 #define Hangman_h
