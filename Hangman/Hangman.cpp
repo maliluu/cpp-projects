@@ -1,6 +1,3 @@
-// Maria Reaidy 20223019
-// Mari Lynn Yammine 20231510
-
 #include "Hangman.h"
 #include <string>
 #include <cstdlib>
